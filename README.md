@@ -1,4 +1,8 @@
 ![](146082043110733.png)
+By [Voidsky(黄锴）](https://github.com/hk029)
+
+---
+
 # LeetBook介绍
 
 LeetBook理论上不是一本书，它是我做leetcode已来的一些笔记，总结。希望通过自己的努力能慢慢的将这本"不是书的书"变得丰满起来。
