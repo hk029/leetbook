@@ -9,7 +9,7 @@
   * [005. Longest Palindromic [M]](字符串/005. Longest Palindromic [M].md)
   * [006.ZigZag Conversion[E]](规律/006.ZigZag Conversion[E].md)
   * [007.Reverse Integer[E]](数学/007.Reverse Integer[E].md)
-  * [008.String to Integer (atoi) [E]](数学/008.String to Integer—atoi[E].md)
+  * [008.String to Integer (atoi) [E]](数学/008.String to Integer —atoi[E].md)
   * [009. Palindrome Number[E]](数组/009. Palindrome Number[E].md)
   * [010. Regular Expression Matching[[H]](动态规划/010. Regular Expression Matching[H].md)
   * [011. Container With Most Water[M]](数组/011. Container With Most Water[M].md)
