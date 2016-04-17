@@ -21,9 +21,9 @@
    * [拉丁数字转罗马数字[M]](查表/012. Integer to Roman[M].md)
    * [罗马数字转拉丁数字[E]](查表/013. Roman to Integer[E].md)
 * 分治（Divide & Conquer）
-   * [两个有序数组中的中位数和Top K问题](分治/004. Median of Two Sorted Arrays[H]/004. Median of Two Sorted Arrays[H].md)
+   * [*两个有序数组中的中位数和Top K问题[H]](分治/004. Median of Two Sorted Arrays[H]/004. Median of Two Sorted Arrays[H].md)
 * 动态规划（DP）
-   * [正则匹配问题[[H]](动态规划/010. Regular Expression Matching[H].md)
+   * [*正则匹配问题[H]](动态规划/010. Regular Expression Matching[H].md)
    * [三角形问题[M]](动态规划/120. Triangle[M].md)
    * [计算二进制数中1的个数[M]](动态规划/338. Counting Bits [M].md)
 * 贪心(Greedy)
