@@ -4,6 +4,7 @@
         "katex",
         "splitter",
         "toggle-chapters",
+        "-search"
         "search-pro"
     ],
     "pluginsConfig": {
