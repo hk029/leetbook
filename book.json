@@ -1,6 +1,8 @@
 {
     "plugins": [
-        "disqus"
+        "disqus",
+        "katex",
+        "splitter"
     ],
     "pluginsConfig":{
         "shortName":"leetbook"
