@@ -1,10 +1,2 @@
 {
-    "plugins": [
-        "disqus",
-        "katex",
-        "splitter"
-    ],
-    "pluginsConfig":{
-        "shortName":"leetbook"
-    }
 }
