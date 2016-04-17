@@ -1,6 +1,7 @@
 # Summary
 
-* [Introduction](README.md)
+* [前言](README.md)
+* [目前收录的题目](topic_include.md)
 * [字符串](字符串)
    * [003. Longest Substring Without Repeating Characters[M].](字符串/003. Longest Substring Without Repeating Characters[M].md)
    * [009. Palindrome Number[E]](字符串/009. Palindrome Number[E].md)
@@ -22,5 +23,5 @@
    * [010. Regular Expression Matching[[H]](动态规划/010. Regular Expression Matching[H].md)
    * [120. Triangle[M]](动态规划/120. Triangle[M].md)
    * [338. Counting Bits [M]](动态规划/338. Counting Bits [M].md)
-* [目前收录的题目](topic_include.md)
+
 
