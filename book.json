@@ -3,7 +3,8 @@
         "disqus",
         "katex",
         "splitter",
-        "toggle-chapters"
+        "toggle-chapters",
+        "search-pro"
     ],
     "pluginsConfig": {}
 }
