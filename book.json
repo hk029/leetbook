@@ -1,7 +1,8 @@
 {
     "plugins": [
         "disqus",
-        "katex"
+        "katex",
+        "splitter"
     ],
     "pluginsConfig": {}
 }
