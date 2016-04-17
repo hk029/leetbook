@@ -8,6 +8,8 @@
 
 # LeetBook介绍
 
+>LeetBook电子书的地址：[https://www.gitbook.com/book/hk029/leetbook/details](https://www.gitbook.com/book/hk029/leetbook/details)
+
 LeetBook理论上不是一本书，它是我做leetcode已来的一些笔记，总结。
 
 本“书”不是一蹴而就的，是本人在刷题过程中做的笔记逐步积累起来的，并会随着我的刷题而变得丰富。
