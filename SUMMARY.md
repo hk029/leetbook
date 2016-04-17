@@ -18,7 +18,7 @@
    * [012. Integer to Roman[M]](查表/012. Integer to Roman[M].md)
    * [013. Roman to Integer[E]](查表/013. Roman to Integer[E].md)
 * 分治（Divide & Conquer）
-   * [004. Median of Two Sorted Arrays[H]](分治/004. Median of Two Sorted Arrays[H].md)
+   * [两个有序数组中的中位数和Top K问题](分治/004. Median of Two Sorted Arrays[H]/004. Median of Two Sorted Arrays[H].md)
 * 动态规划（DP）
    * [010. Regular Expression Matching[[H]](动态规划/010. Regular Expression Matching[H].md)
    * [120. Triangle[M]](动态规划/120. Triangle[M].md)
