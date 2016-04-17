@@ -2,7 +2,7 @@
 
 * [前言](README.md)
 * [目前收录的题目](topic_include.md)
-* [字符串](字符串)
+* 字符串
    * [003. Longest Substring Without Repeating Characters[M].](字符串/003. Longest Substring Without Repeating Characters[M].md)
    * [009. Palindrome Number[E]](字符串/009. Palindrome Number[E].md)
    * [014. Longest Common Prefix[E]](字符串/014. Longest Common Prefix[E].md)
