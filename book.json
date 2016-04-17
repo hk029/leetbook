@@ -2,7 +2,8 @@
     "plugins": [
         "disqus",
         "katex",
-        "splitter"
+        "splitter",
+        "toggle-chapters"
     ],
     "pluginsConfig": {}
 }
