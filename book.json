@@ -6,5 +6,7 @@
         "toggle-chapters",
         "search-pro"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "shortName":"leetbook"
+    }
 }
