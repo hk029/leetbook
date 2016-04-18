@@ -3,7 +3,7 @@
 * [前言](README.md)
 * [目前收录的题目](topic_include.md)
 * 数组
-   * [Hashmap解决两数求和[E]](数组/001.Two Sum[E].md)
+   * [两数求和问题[E]](数组/001.Two Sum[E].md)
    * [三数组求和问题[M]](数组/015. 3Sum/015. 3Sum.md)
    * [两个指针解决装水问题[M]](数组/011. Container With Most Water[M].md)
 * 字符串
