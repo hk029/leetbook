@@ -9,13 +9,12 @@
 * 字符串
    * [不重复子串问题[M]](字符串/003. Longest Substring Without Repeating Characters[M]/003. Longest Substring Without Repeating Characters[M].md)
    * [最长回文串[M]](字符串/005. Longest Palindromic [M].md)
-
 * 链表
    * [两个大数相加[M]](链表/002. Add Two Numbers [M].md)
-* 数学
-  * [转置数字——解决溢出的思路[E]](数学/007.Reverse Integer[E].md)
-  * [atoi——正负号的处理技巧[E]](数学/008.String to Integer —atoi[E].md)
-  * [回文数字巧解[E]](数组/009. Palindrome Number[E].md)
+* [数学](数学)
+   * [转置数字——解决溢出的思路[E]](数学/007.Reverse Integer[E].md)
+   * [atoi——正负号的处理技巧[E]](数学/008.String to Integer —atoi[E].md)
+   * [回文数字巧解[E]](数组/009. Palindrome Number[E].md)
 * 找规律
    * [ZigZag解码[E]](规律/006.ZigZag Conversion[E].md)
    * [Nim的游戏[E]](规律/292. Nim Game[E].md)
@@ -31,3 +30,4 @@
 * 贪心(Greedy)
 * 未在上面列出的题目
    * [014. Longest Common Prefix[E]](字符串/014. Longest Common Prefix[E].md)
+
