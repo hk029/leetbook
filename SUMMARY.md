@@ -2,12 +2,14 @@
 
 * [前言](README.md)
 * [目前收录的题目](topic_include.md)
+* 数组
+   * [Hashmap解决两数求和[E]](数组/001.Two Sum[E].md)
+   * [三数组求和问题[M]](数组/015. 3Sum/015. 3Sum.md)
+   * [两个指针解决装水问题[M]](数组/011. Container With Most Water[M].md)
 * 字符串
    * [不重复子串问题[M]](字符串/003. Longest Substring Without Repeating Characters[M]/003. Longest Substring Without Repeating Characters[M].md)
    * [最长回文串[M]](字符串/005. Longest Palindromic [M].md)
-* 数组
-   * [Hashmap解决两数求和[E]](数组/001.Two Sum[E].md)
-   * [两个指针解决装水问题[M]](数组/011. Container With Most Water[M].md)
+
 * 链表
    * [两个大数相加[M]](链表/002. Add Two Numbers [M].md)
 * 数学
