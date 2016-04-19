@@ -5,6 +5,7 @@
 * 数组
    * [两数求和问题[E]](数组/001.Two Sum[E].md)
    * [三数组求和问题[M]](数组/015. 3Sum/015. 3Sum.md)
+   * [三数组问题变种[M]](数组/016. 3Sum Closest [M]/16. 3Sum Closest [M].md)
    * [两个指针解决装水问题[M]](数组/011. Container With Most Water[M].md)
 * 字符串
    * [不重复子串问题[M]](字符串/003. Longest Substring Without Repeating Characters[M]/003. Longest Substring Without Repeating Characters[M].md)
