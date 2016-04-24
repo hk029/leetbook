@@ -12,6 +12,7 @@
    * [最长回文串[M]](字符串/005. Longest Palindromic [M].md)
 * 链表
    * [两个大数相加[M]](链表/002. Add Two Numbers [M].md)
+   * [*单链表求倒数问题[E]](链表/019. Remove Nth Node From End of List.md)
 * [数学](数学)
    * [转置数字——解决溢出的思路[E]](数学/007.Reverse Integer[E].md)
    * [atoi——正负号的处理技巧[E]](数学/008.String to Integer —atoi[E].md)
