@@ -7,6 +7,7 @@
    * [三数组求和问题[M]](数组/015. 3Sum/015. 3Sum.md)
    * [三数组问题变种[M]](数组/016. 3Sum Closest [M]/16. 3Sum Closest [M].md)
    * [两个指针解决装水问题[M]](数组/011. Container With Most Water[M].md)
+   * [括号匹配问题[E]](数组/20. Valid Parentheses.md)
 * 字符串
    * [不重复子串问题[M]](字符串/003. Longest Substring Without Repeating Characters[M]/003. Longest Substring Without Repeating Characters[M].md)
    * [最长回文串[M]](字符串/005. Longest Palindromic [M].md)
@@ -32,4 +33,6 @@
 * 贪心(Greedy)
 * 未在上面列出的题目
    * [014. Longest Common Prefix[E]](字符串/014. Longest Common Prefix[E].md)
+   
+   * 
 
