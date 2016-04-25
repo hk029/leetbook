@@ -3,5 +3,7 @@
         "katex",
         "disqus"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "shortName": "<你刚才注册的shortName>"
+    }
 }
