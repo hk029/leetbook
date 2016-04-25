@@ -5,7 +5,7 @@
     ],
    "pluginsConfig": {
         "duoshuo": {
-            "shortName": "leetbook",
+            "short_name": "leetbook",
             "theme": "default"
         }
     }
