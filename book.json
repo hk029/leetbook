@@ -1,11 +1,12 @@
 {
     "plugins": [
         "katex",
-        "disqus"
+        "duoshuo"
     ],
    "pluginsConfig": {
-        "disqus": {
-            "shortName": "leetbook"
+        "duoshuo": {
+            "shortName": "leetbook",
+            "theme": "default"
         }
     }
 }
