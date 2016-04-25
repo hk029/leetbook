@@ -3,7 +3,9 @@
         "katex",
         "disqus"
     ],
-    "pluginsConfig": {
-        "shortName": "leetbook"
+   "pluginsConfig": {
+        "disqus": {
+            "shortName": "leetbook"
+        }
     }
 }
