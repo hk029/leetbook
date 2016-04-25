@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "katex"
+        "katex",
+        "disqus"
     ],
     "pluginsConfig": {}
 }
