@@ -6,6 +6,7 @@
    * [两数求和问题[E]](数组/001.Two Sum[E].md)
    * [三数组求和问题[M]](数组/015. 3Sum/015. 3Sum.md)
    * [三数组问题变种[M]](数组/016. 3Sum Closest [M]/16. 3Sum Closest [M].md)
+   * [四数组问题[M]](数组/018. 4Sum[M].md)
    * [两个指针解决装水问题[M]](数组/011. Container With Most Water[M].md)
    * [括号匹配问题[E]](数组/20. Valid Parentheses.md)
 * 字符串
@@ -33,6 +34,9 @@
 * 贪心(Greedy)
 * 未在上面列出的题目
    * [014. Longest Common Prefix[E]](字符串/014. Longest Common Prefix[E].md)
+   * [017. Letter Combinations of a Phone Number[M]](数组/017. Letter Combinations of a Phone Number[M]/017. Letter Combinations of a Phone Number[M].md)
+   * [020. Valid Parentheses[E]](数组/20. Valid Parentheses.md)
+   * [021. Merge Two Sorted Lists[E]](链表/21. Merge Two Sorted Lists.md)
    
    * 
 
