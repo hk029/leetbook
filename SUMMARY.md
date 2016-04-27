@@ -20,7 +20,7 @@
    * [数字键盘字母组合问题[M]](数组/017. Letter Combinations of a Phone Number[M]/017. Letter Combinations of a Phone Number[M].md)
 * [数学](数学)
    * [转置数字——解决溢出的思路[E]](数学/007.Reverse Integer[E].md)
-   * [atoi——正负号的处理技巧[E]](数学/008.String to Integer —atoi[E].md)
+   * [atoi——培养严谨的思路，正负号的处理技巧[E]](数学/008.String to Integer —atoi[E].md)
    * [回文数字巧解[E]](数组/009. Palindrome Number[E].md)
 * 找规律
    * [ZigZag解码[E]](规律/006.ZigZag Conversion[E].md)
