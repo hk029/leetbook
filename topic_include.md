@@ -19,7 +19,7 @@
   * [015. 3Sum[M]](数组/015. 3Sum/015. 3Sum.md)
   * [016. 3Sum Closest [M]](数组/016. 3Sum Closest [M]/16. 3Sum Closest [M].md)
   * [017. Letter Combinations of a Phone Number[M]](数组/017. Letter Combinations of a Phone Number[M]/017. Letter Combinations of a Phone Number[M].md)
-  * 018. [4Sum[M]](数组/018. 4Sum[M].md)
+  * [018. 4Sum[M]](数组/018. 4Sum[M].md)
   * [019. Remove Nth Node From End of List[E]](链表/019. Remove Nth Node From End of List.md)
   * [020. Valid Parentheses[E]](数组/20. Valid Parentheses.md)
   * [021. Merge Two Sorted Lists[E]](链表/21. Merge Two Sorted Lists.md)
