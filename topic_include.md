@@ -2,7 +2,7 @@
 
 为什么开这样一页，是因为分类的情况下，大家找题目可能不方便，为了方便大家找题目开了这一页，所有题目按顺序排列，大家可以用ctrl+f找自己需要的题目
 
-  * [001.Two Sum[E]](数组/001.Two Sum[E].md)
+  * [001. Two Sum[E]](数组/001.Two Sum[E].md)
   * [002. Add Two Numbers [M]](链表/002. Add Two Numbers [M].md)
   * [003. Longest Substring Without Repeating Characters[M].](字符串/003. Longest Substring Without Repeating Characters[M]/003. Longest Substring Without Repeating Characters[M].md)   
   * [004. Median of Two Sorted Arrays[H]](分治/004. Median of Two Sorted Arrays[H]/004. Median of Two Sorted Arrays[H].md)
