@@ -23,6 +23,7 @@
   * [019. Remove Nth Node From End of List[E]](链表/019. Remove Nth Node From End of List.md)
   * [020. Valid Parentheses[E]](数组/20. Valid Parentheses.md)
   * [021. Merge Two Sorted Lists[E]](链表/21. Merge Two Sorted Lists.md)
+  * [022. Generate Parentheses[M]](动态规划/22. Generate Parentheses[M]/22. Generate Parentheses[M].md)
   * [120. Triangle[M]](动态规划/120. Triangle[M].md)
   * [292. Nim Game[E]](规律/292. Nim Game[E].md)
   * [338. Counting Bits [M]](动态规划/338. Counting Bits [M].md)
