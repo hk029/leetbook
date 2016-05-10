@@ -34,6 +34,7 @@
    * [*正则匹配问题[H]](动态规划/010. Regular Expression Matching/010. Regular Expression Matching.md)
    * [三角形问题[M]](动态规划/120. Triangle[M].md)
    * [计算二进制数中1的个数[M]](动态规划/338. Counting Bits [M].md)
+   * [括号匹配问题[M]](动态规划/22. Generate Parentheses[M]/22. Generate Parentheses[M].md)
 * 贪心(Greedy)
 * 未在上面列出的题目
    * [014. Longest Common Prefix[E]](字符串/014. Longest Common Prefix[E].md)
