@@ -40,9 +40,7 @@
 * 贪心(Greedy)
 * 未在上面列出的题目
    * [014. Longest Common Prefix[E]](字符串/014. Longest Common Prefix[E].md)
-  
-   * [020. Valid Parentheses[E]](数组/20. Valid Parentheses.md)
-   * [021. Merge Two Sorted Lists[E]](链表/21. Merge Two Sorted Lists.md)
+   * [026. Remove Duplicates from Sorted Array[E]](数组/026. Remove Duplicates from Sorted Array[E]/026. Remove Duplicates from Sorted Array[E].md)
    
    * 
 
