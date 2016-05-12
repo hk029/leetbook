@@ -15,6 +15,8 @@
 * 链表
    * [两个大数相加[M]](链表/002. Add Two Numbers [M].md)
    * [*单链表求倒数问题[E]](链表/019. Remove Nth Node From End of List.md)
+   * [合并链表[E]](链表/21. Merge Two Sorted Lists.md)
+   * [交换节点对[E]](链表/024. Swap Nodes in Pairs   My Submissions[E].md)
 * 队列和堆栈
    * [括号匹配问题[E]](数组/20. Valid Parentheses.md)
    * [数字键盘字母组合问题[M]](数组/017. Letter Combinations of a Phone Number[M]/017. Letter Combinations of a Phone Number[M].md)
