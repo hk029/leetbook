@@ -16,8 +16,7 @@
    * [*单链表求倒数问题[E]](链表/019. Remove Nth Node From End of List.md)
    * [合并链表[E]](链表/21. Merge Two Sorted Lists.md)
    * [交换节点对[E]](链表/024. Swap Nodes in Pairs   My Submissions[E].md)
-* 队列和堆栈
-   * [括号匹配问题[E]](数组/20. Valid Parentheses.md)
+* 队列和堆栈  
    * [数字键盘字母组合问题[M]](数组/017. Letter Combinations of a Phone Number[M]/017. Letter Combinations of a Phone Number[M].md)
 * [数学](数学)
    * [转置数字——解决溢出的思路[E]](数学/007.Reverse Integer[E].md)
@@ -35,9 +34,10 @@
    * [*正则匹配问题[H]](动态规划/010. Regular Expression Matching/010. Regular Expression Matching.md)
    * [三角形问题[M]](动态规划/120. Triangle[M].md)
    * [计算二进制数中1的个数[M]](动态规划/338. Counting Bits [M].md)
-   * [括号匹配问题[M]](动态规划/22. Generate Parentheses[M]/22. Generate Parentheses[M].md)
+   * [*括号匹配问题[M]](动态规划/22. Generate Parentheses[M]/22. Generate Parentheses[M].md)
 * 贪心(Greedy)
 * 未在上面列出的题目
    * [014. Longest Common Prefix[E]](字符串/014. Longest Common Prefix[E].md)
+   * [020. Valid Parentheses[E]](数组/20. Valid Parentheses.md)
    * [026. Remove Duplicates from Sorted Array[E]](数组/026. Remove Duplicates from Sorted Array[E]/026. Remove Duplicates from Sorted Array[E].md)
 
