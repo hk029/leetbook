@@ -27,6 +27,8 @@
   * [023. Merge k Sorted Lists [H]](链表/023. Merge k Sorted Lists [H]/023. Merge k Sorted Lists [H].md)
   * [024. Swap Nodes in Pairs[E]](链表/024. Swap Nodes in Pairs   My Submissions[E].md)
   * [026. Remove Duplicates from Sorted Array[E]](数组/026. Remove Duplicates from Sorted Array[E]/026. Remove Duplicates from Sorted Array[E].md)
+  * [027. Remove Element[E].md](数组/027. Remove Element[E].md)
+  * [028. Implement strStr()[E].md](数组/028. Implement strStr()[E].md)
   * [029. Divide Two Integers[M].md](数学/029. Divide Two Integers[M].md)
   * [120. Triangle[M]](动态规划/120. Triangle[M].md)
   * [292. Nim Game[E]](规律/292. Nim Game[E].md)
