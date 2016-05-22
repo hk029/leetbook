@@ -14,7 +14,8 @@
 * 链表
    * [两个大数相加[M]](链表/002. Add Two Numbers [M].md)
    * [*单链表求倒数问题[E]](链表/019. Remove Nth Node From End of List.md)
-   * [合并链表[E]](链表/21. Merge Two Sorted Lists.md)
+   * [合并两个链表[E]](链表/21. Merge Two Sorted Lists.md)
+   * [合并多个链表[H]](链表/023. Merge k Sorted Lists [H]/023. Merge k Sorted Lists [H].md)
    * [交换节点对[E]](链表/024. Swap Nodes in Pairs   My Submissions[E].md)
 * 队列和堆栈  
    * [数字键盘字母组合问题[M]](数组/017. Letter Combinations of a Phone Number[M]/017. Letter Combinations of a Phone Number[M].md)
@@ -22,6 +23,7 @@
    * [转置数字——解决溢出的思路[E]](数学/007.Reverse Integer[E].md)
    * [atoi——培养严谨的思路，正负号的处理技巧[E]](数学/008.String to Integer —atoi[E].md)
    * [回文数字巧解[E]](数组/009. Palindrome Number[E].md)
+   * [位运算实现除法[M]](数学/029. Divide Two Integers[M].md)
 * 找规律
    * [ZigZag解码[E]](规律/006.ZigZag Conversion[E].md)
    * [Nim的游戏[E]](规律/292. Nim Game[E].md)
@@ -40,4 +42,5 @@
    * [014. Longest Common Prefix[E]](字符串/014. Longest Common Prefix[E].md)
    * [020. Valid Parentheses[E]](数组/20. Valid Parentheses.md)
    * [026. Remove Duplicates from Sorted Array[E]](数组/026. Remove Duplicates from Sorted Array[E]/026. Remove Duplicates from Sorted Array[E].md)
+   * [028. Implement strStr()[E].md](数组/028. Implement strStr()[E].md)
 
