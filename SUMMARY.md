@@ -3,12 +3,13 @@
 * [前言](README.md)
 * [目前收录的题目](topic_include.md)
 * 数组
+   
+* 双指针
    * [两数求和问题[E]](数组/001.Two Sum[E].md)
    * [三数组求和问题[M]](数组/015. 3Sum/015. 3Sum.md)
    * [三数组问题变种[M]](数组/016. 3Sum Closest [M]/16. 3Sum Closest [M].md)
    * [四数组问题[M]](数组/018. 4Sum[M].md)
    * [两个指针解决装水问题[M]](数组/011. Container With Most Water[M].md)
-* 双指针
    * [删除重复元素[E]](数组/027. Remove Element[E].md)
 * [字符串](字符串)
    * [不重复子串问题[M]](字符串/003. Longest Substring Without Repeating Characters[M]/003. Longest Substring Without Repeating Characters[M].md)
