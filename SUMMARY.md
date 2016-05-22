@@ -8,6 +8,8 @@
    * [三数组问题变种[M]](数组/016. 3Sum Closest [M]/16. 3Sum Closest [M].md)
    * [四数组问题[M]](数组/018. 4Sum[M].md)
    * [两个指针解决装水问题[M]](数组/011. Container With Most Water[M].md)
+* 双指针
+   * [删除重复元素[E]](数组/027. Remove Element[E].md)
 * [字符串](字符串)
    * [不重复子串问题[M]](字符串/003. Longest Substring Without Repeating Characters[M]/003. Longest Substring Without Repeating Characters[M].md)
    * [最长回文串[M]](字符串/005. Longest Palindromic [M].md)
