@@ -1,9 +1,7 @@
 # Summary
 
 * [前言](README.md)
-* [目前收录的题目](topic_include.md)
-* 数组
-   
+* [目前收录的题目](topic_include.md)   
 * 双指针
    * [两数求和问题[E]](数组/001.Two Sum[E].md)
    * [三数组求和问题[M]](数组/015. 3Sum/015. 3Sum.md)
