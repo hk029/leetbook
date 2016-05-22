@@ -8,6 +8,7 @@
    * [三数组问题变种[M]](数组/016. 3Sum Closest [M]/16. 3Sum Closest [M].md)
    * [四数组问题[M]](数组/018. 4Sum[M].md)
    * [两个指针解决装水问题[M]](数组/011. Container With Most Water[M].md)
+   * [删除有序数组重复元素[E]](数组/026. Remove Duplicates from Sorted Array[E]/026. Remove Duplicates from Sorted Array[E].md)
    * [删除重复元素[E]](数组/027. Remove Element[E].md)
 * [字符串](字符串)
    * [不重复子串问题[M]](字符串/003. Longest Substring Without Repeating Characters[M]/003. Longest Substring Without Repeating Characters[M].md)
@@ -42,5 +43,5 @@
 * 未在上面列出的题目
    * [014. Longest Common Prefix[E]](字符串/014. Longest Common Prefix[E].md)
    * [020. Valid Parentheses[E]](数组/20. Valid Parentheses.md)
-   * [026. Remove Duplicates from Sorted Array[E]](数组/026. Remove Duplicates from Sorted Array[E]/026. Remove Duplicates from Sorted Array[E].md)
+   
    * [028. Implement strStr()[E]](数组/028. Implement strSt.md])
