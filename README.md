@@ -73,8 +73,9 @@ LeetBook理论上不是一本书，它是我做leetcode已来的一些笔记，�
 
 - 黄锴
   - 邮箱   [hk2291976@hotmail.com](hk2291976@hotmail.com)
+  - 简书  [http://www.jianshu.com/users/30f737ee0051/latest_articles](http://www.jianshu.com/users/30f737ee0051/latest_articles)
+  - 个人主页 [空纸屋](voidsky.cc)
   - CSDN博客 [blog.csdn.net/hk221976](blog.csdn.net/hk221976)
-  - 微信 justme029
   - qq 263791865
 
 
