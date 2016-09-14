@@ -21,6 +21,8 @@
    * [交换节点对[E]](链表/024. Swap Nodes in Pairs   My Submissions[E].md)
 * 队列和堆栈
    * [数字键盘字母组合问题[M]](数组/017. Letter Combinations of a Phone Number[M]/017. Letter Combinations of a Phone Number[M].md)
+* 位操作
+  * [子集问题[M]](位操作/078.Subset[M])
 * [数学](数学)
    * [转置数字——解决溢出的思路[E]](数学/007.Reverse Integer[E].md)
    * [atoi——培养严谨的思路，正负号的处理技巧[E]](数学/008.String to Integer —atoi[E].md)
@@ -39,6 +41,7 @@
    * [三角形问题[M]](动态规划/120. Triangle[M].md)
    * [计算二进制数中1的个数[M]](动态规划/338. Counting Bits [M].md)
    * [*括号匹配问题[M]](动态规划/22. Generate Parentheses[M]/22. Generate Parentheses[M].md)
+   * [最小路径和问题[M]](动态规划/064. Minimum Path Sum[M].md)
 * 贪心(Greedy)
 * 未在上面列出的题目
    * [014. Longest Common Prefix[E]](字符串/014. Longest Common Prefix[E].md)
