@@ -32,6 +32,8 @@
 * [查表](查表)
    * [拉丁数字转罗马数字[M]](查表/012. Integer to Roman[M].md)
    * [罗马数字转拉丁数字[E]](查表/013. Roman to Integer[E].md)
+* 位操作
+  * [求子集[M]](位操作/078.subset[M].md)
 * 分治（Divide & Conquer）
    * [*两个有序数组中的中位数和Top K问题[H]](分治/004. Median of Two Sorted Arrays[H]/004. Median of Two Sorted Arrays[H].md)
 * 动态规划（DP）
