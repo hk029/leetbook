@@ -10,7 +10,7 @@
    * [两个指针解决装水问题[M]](数组/011. Container With Most Water[M].md)
    * [删除有序数组重复元素[E]](数组/026. Remove Duplicates from Sorted Array[E]/026. Remove Duplicates from Sorted Array[E].md)
    * [删除重复元素[E]](数组/027. Remove Element[E].md)
-* [二分](二分查找/README.md)
+* [二分查找](二分查找/README.md)
   * [搜索范围](二分查找/034. Search for a Range[M].md)
   * [搜索插入位置](二分查找/035. Search Insert Position[M],md)
   * [猜数问题](二分查找/374. Guess Number Higher or Lower[E].md)
