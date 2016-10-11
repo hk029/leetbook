@@ -11,9 +11,10 @@
    * [删除有序数组重复元素[E]](数组/026. Remove Duplicates from Sorted Array[E]/026. Remove Duplicates from Sorted Array[E].md)
    * [删除重复元素[E]](数组/027. Remove Element[E].md)
 * [二分查找](二分查找/README.md)
-  * [搜索范围](二分查找/034. Search for a Range[M].md)
-  * [搜索插入位置](二分查找/035. Search Insert Position[M],md)
-  * [猜数问题](二分查找/374. Guess Number Higher or Lower[E].md)
+  * [搜索范围[M]](二分查找/034. Search for a Range[M].md)
+  * [搜索插入位置[M]](二分查找/035. Search Insert Position[M],md)
+  * [猜数问题[E]](二分查找/374. Guess Number Higher or Lower[E].md)
+  * [*旋转后的二分查找[H]](二分查找/033. Search in Rotated Sorted Array[H].md)
 * 字符串
    * [不重复子串问题[M]](字符串/003. Longest Substring Without Repeating Characters[M]/003. Longest Substring Without Repeating Characters[M].md)
    * [最长回文串[M]](字符串/005. Longest Palindromic [M].md)
