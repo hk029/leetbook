@@ -25,7 +25,7 @@
    * [交换节点对[E]](链表/024. Swap Nodes in Pairs   My Submissions[E].md)
 * 队列和堆栈
    * [数字键盘字母组合问题[M]](数组/017. Letter Combinations of a Phone Number[M]/017. Letter Combinations of a Phone Number[M].md)
-* [数学](数学)
+* 数学
    * [转置数字——解决溢出的思路[E]](数学/007.Reverse Integer[E].md)
    * [atoi——培养严谨的思路，正负号的处理技巧[E]](数学/008.String to Integer —atoi[E].md)
    * [回文数字巧解[E]](数组/009. Palindrome Number[E].md)
@@ -33,7 +33,7 @@
 * 找规律
    * [ZigZag解码[E]](规律/006.ZigZag Conversion[E].md)
    * [Nim的游戏[E]](规律/292. Nim Game[E].md)
-* [查表](查表)
+* 查表
    * [拉丁数字转罗马数字[M]](查表/012. Integer to Roman[M].md)
    * [罗马数字转拉丁数字[E]](查表/013. Roman to Integer[E].md)
 * 位操作
