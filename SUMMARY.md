@@ -14,7 +14,7 @@
   * [搜索范围](二分查找/034. Search for a Range[M].md)
   * [搜索插入位置](二分查找/035. Search Insert Position[M],md)
   * [猜数问题](二分查找/374. Guess Number Higher or Lower[E].md)
-* [字符串](字符串)
+* 字符串
    * [不重复子串问题[M]](字符串/003. Longest Substring Without Repeating Characters[M]/003. Longest Substring Without Repeating Characters[M].md)
    * [最长回文串[M]](字符串/005. Longest Palindromic [M].md)
 * 链表
