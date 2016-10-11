@@ -30,11 +30,13 @@
   * [027. Remove Element[E].md](数组/027. Remove Element[E].md)
   * [028. Implement strStr()[E].md](数组/028. Implement strStr.md)
   * [029. Divide Two Integers[M].md](数学/029. Divide Two Integers[M].md)
+  * [034. Search for a Range[M]](二分查找/034. Search for a Range[M].md)
+  * [035. Search Insert Position[M]](二分查找/035. Search Insert Position[M],md)
   * [064. Minimum Path Sum[M]](动态规划/064. Minimum Path Sum[M].md)
   * [120. Triangle[M]](动态规划/120. Triangle[M].md)
   * [292. Nim Game[E]](规律/292. Nim Game[E].md)
   * [338. Counting Bits [M]](动态规划/338. Counting Bits [M].md)
-
+  * [374. Guess Number Higher or Lower[E]](二分查找/374. Guess Number Higher or Lower[E].md)
 
   
    
