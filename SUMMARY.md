@@ -10,6 +10,7 @@
    * [两个指针解决装水问题[M]](数组/011. Container With Most Water[M].md)
    * [删除有序数组重复元素[E]](数组/026. Remove Duplicates from Sorted Array[E]/026. Remove Duplicates from Sorted Array[E].md)
    * [删除重复元素[E]](数组/027. Remove Element[E].md)
+* [二分](二分查找/README.md)
 * [字符串](字符串)
    * [不重复子串问题[M]](字符串/003. Longest Substring Without Repeating Characters[M]/003. Longest Substring Without Repeating Characters[M].md)
    * [最长回文串[M]](字符串/005. Longest Palindromic [M].md)
